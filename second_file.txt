@@ -1,2 +1,3 @@
 bock bock!
 again
+conflicting line 
