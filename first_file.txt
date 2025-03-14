@@ -4,11 +4,5 @@ salad
 fish
 bridget jones
 toy story
-<<<<<<< HEAD
-halacska
-pandácska
-=======
-harry potter
-rolling stones
-solling rtones
->>>>>>> movies
+
+## MY NEW LINE ## 
